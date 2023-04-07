@@ -1,0 +1,17 @@
+"..\main.obj",
+"..\adc.obj",
+"..\ds18b20.obj",
+"..\ds1302.obj",
+"..\ds1302config.obj",
+"..\hc138.obj",
+"..\head.obj",
+"..\iic.obj",
+"..\key.obj",
+"..\led.obj",
+"..\menu.obj",
+"..\onewire.obj",
+"..\SMG.obj",
+"..\Timer.obj",
+"..\uart.obj" 
+TO "..\library" 
+PRINT(".\Listings\library.m51") RAMSIZE(256) 
